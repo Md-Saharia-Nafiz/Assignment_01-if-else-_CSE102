@@ -41,7 +41,22 @@ This assignment is designed to:
 -> Practice basic problem-solving logic
 
 -> Improve familiarity with syntax and structure
-## 
+
+## 🧠 Concepts Practiced:
+
+=> ✅ Conditional Statements – Practiced using if, else if, and else to control program flow.
+
+=> 🧾 User Input Handling – Learned how to take input using scanf() and process it.
+
+=> 🔍 Logical Operators – Applied comparison operators like ==, >, <, >=, <=.
+
+=> 📤 Output Display – Used printf() to show meaningful output based on conditions.
+
+=> 🛠️ Problem Solving – Broke down real-world logic into programmable steps.
+
+=> 🧹 Clean Code Structure – Maintained proper syntax, indentation, and readability.
+
+
 ##  What I Learned from This Assignment:
 ✅ Gained a clear understanding of conditional programming logic.
 
