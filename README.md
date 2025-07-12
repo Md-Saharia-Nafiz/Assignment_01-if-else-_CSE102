@@ -33,7 +33,7 @@ Through this assignment, students learn how to write decision-making logic, mana
 📚 Educational Purpose – Helps beginners understand the flow of control in C programming.
 
 ⚙️ Simple and Clean Code – Easy to read, modify, and learn for new programmers.
-## ✅ Purpose:
+## 🔔 Purpose:
 This assignment is designed to:
 
 -> hance understanding of conditional statements in C
